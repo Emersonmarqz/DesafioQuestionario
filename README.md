@@ -16,9 +16,9 @@ Cria o projeto  em PHP, utilizando as tecnologias MYSQL, HTML, JS e CSS.
 utilizei o CROUD utilizando uma estrutura padrão MVC como foi pedido no desafio para organizar o projeto de forma correta.
 
 ## Como rodar o projeto
-Funciona da seguinte forma, o arquivo index.php te redicionará para o menu principal. no menu principal, você encontra um botão e a lista de questionários feitos. O primeiro botão "Adicionar novo questionário" quando acionado, redireciona  para a página de criação de questionários.
+Funciona da seguinte forma, o arquivo index.php te redicionará para o menu principal. no menu principal, você encontra um botão e a lista de questionários feitos. O botão "Adicionar novo questionário" quando acionado, redireciona  para a página de criação de questionários.
 
 ## Agradecimentos
-Queria agradecer pela oportunidade dada pela EMR de poder fazer esse projeto que me fez evoluir muito em desenvolvimento web, um desafio justo e muito desafiador. Independente de conseguir a vaga ou não, concluir este projeto, ou tentar concluir o máximo que eu consegui, me fez evoluir muito e ter ainda mais vontade de adiquirir mais conehcimentos. 
+Queria agradecer pela oportunidade dada pela EMR de poder fazer esse projeto que me fez evoluir muito em desenvolvimento web, um desafio justo e muito desafiador. Independente de conseguir a vaga ou não, concluir este projeto, ou tentar concluir o máximo que eu consegui, me fez evoluir muito e ter ainda mais vontade de adiquirir mais conhecimentos. 
 
 
